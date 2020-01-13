@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20745865138",
+    "firebase_url": "https://mixo-aa62d.firebaseio.com",
+    "project_id": "mixo-aa62d",
+    "storage_bucket": "mixo-aa62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20745865138:android:a63a93bcffb88a7d3986ab",
+        "android_client_info": {
+          "package_name": "com.mixo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20745865138-3bq8m78qjfdd1qh4968l3b53mjvf4fmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mixo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "20745865138-0ksj94qobumht2plk99uee2n1a6736d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB90rdV8xyo3gKpoIMO_ti9ONgVyGqmzkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20745865138-0ksj94qobumht2plk99uee2n1a6736d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

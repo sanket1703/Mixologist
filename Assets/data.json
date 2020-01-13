@@ -1,0 +1,33 @@
+{
+    "BlueShoe" :
+        {
+            "title" : "Blue Shoe",
+            "description" : "A MixThatDrink original featuring blue fruit punch and cranberry juice, because non-drinkers shouldn’t have to miss out on the fun of a blue, bubbly cocktail.",
+            "price" : "1.45",
+            "source": "/Users/apple/Mixo/Assets/blue.jpg",
+            "index" : 0,
+            "rating" : 4.5
+        
+        }
+    
+    
+    ,
+    "Mojito":
+        {
+        
+        "title" : "Mojito",
+        "description" : "A Mojito with all the flavor, but none of the rum. Seriously, the taste and look is so close to the original.",
+        "price" : "0.99",
+        "source" : "/Users/apple/Mixo/Assets/mojito1.jpg",
+        "index" : 1,
+        "index1" : "1",
+        "rating" : 3.7
+   
+    
+        }
+  
+    
+
+
+
+}
