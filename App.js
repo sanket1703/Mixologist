@@ -57,5 +57,5 @@ const AppStackNavigator = createStackNavigator({
   
 });
 
-const AppContainer = createAppContainer(AppDrawerNavigator)
+const AppContainer = createAppContainer(AppStackNavigator)
 

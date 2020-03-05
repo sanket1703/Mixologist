@@ -102,10 +102,7 @@ class Login extends Component {
             
             <View style={styles.Background}>
             
-              <Button onPress = {() => this.props.navigation.openDrawer()}
-              title ={'Drawer'}>
 
-              </Button>
  
             <Text style = {styles.txt}>Mixologist</Text>
            

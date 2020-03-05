@@ -1,6 +1,7 @@
 {
     "BlueShoe" :
         {
+            "drink":2,
             "title" : "Blue Shoe",
             "description" : "A MixThatDrink original featuring blue fruit punch and cranberry juice, because non-drinkers shouldn’t have to miss out on the fun of a blue, bubbly cocktail.",
             "price" : "1.45",
@@ -14,7 +15,7 @@
     ,
     "Mojito":
         {
-        
+        "drink": 1,
         "title" : "Mojito",
         "description" : "A Mojito with all the flavor, but none of the rum. Seriously, the taste and look is so close to the original.",
         "price" : "0.99",
@@ -25,9 +26,46 @@
    
     
         }
-  
+    ,
+     
+    "Purple":
+        {
+        "drink": 4,
+        "title" : "Purple Haze",
+        "description" : "A purple haze is a cocktail with vodka, fruit liqueur, and sometimes a splash of soda. A purple color can be obtained by adding, e.g., a raspberry liqueur to cranberry juice, to make a variation of a Cape Codder, to which ginger ale can also be added",
+        "price" : "0.60",
+        "source" : "/Users/apple/Mixo/Assets/purp.jpg",
+        "index" : 2,
+        "index1" : "2",
+        "rating" : 4.9
+   
     
-
-
-
-}
+        },
+        "Pink":
+        {
+        "drink" : 3,
+        "title" : "Pink Lady",
+        "description" : "The exact ingredients for the pink lady vary, but all variations have the use of gin, grenadine, and egg white in common.In its most basic form, the pink lady consists of just these three ingredients. According to the Royal Cafe Cocktail Book of 1937, it is made with a glass of gin, a tablespoon of grenadine, and the white of one egg, shaken and strained into a glass.",
+        "price" : "0.70",
+        "source" : "/Users/apple/Mixo/Assets/pink.jpg",
+        "index" : 3,
+        "index1" : "3",
+        "rating" : 4.7
+   
+    
+        },
+        "Yellow":
+        {
+        "drink":5,
+        "title" : "Yellow Bird",
+        "description" : "The origins of the yellow bird name is unclear.Some sources mention that the cocktail was named after the Haitian tune Yellow Bird that was first rewritten in English in 195 that became a sort of national anthem of the Caribbean due to the popularity of Harry Belafonte's recording",
+        "price" : "0.50",
+        "source" : "/Users/apple/Mixo/Assets/yellow.jpg",
+        "index" : 4,
+        "index1" : "4",
+        "rating" : 4.0
+   
+    
+        }
+   
+    }
